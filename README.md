@@ -327,4 +327,4 @@ For questions or suggestions:
 
 **Made with ❤️ for Machine Learning enthusiasts and CSE students**
 
-*Last Updated: December 2024*
+*Last Updated: December 2026*
